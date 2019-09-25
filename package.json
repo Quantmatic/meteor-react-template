@@ -1,5 +1,5 @@
 {
-  "name": "meteor-bootstrap4-react-router4-template",
+  "name": "meteor-bootstrap4",
   "private": true,
   "scripts": {
     "preinstall": "curl https://install.meteor.com/ | sh",
