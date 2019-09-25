@@ -1,5 +1,5 @@
 {
-  "name": "meteor-bootstrap4-react",
+  "name": "meteor-bootstrap4-react-templ",
   "private": true,
   "scripts": {
     "preinstall": "sh meteor_install.sh && sh dependencies.sh",
