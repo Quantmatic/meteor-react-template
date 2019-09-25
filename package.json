@@ -1,5 +1,5 @@
 {
-  "name": "meteor-bootstrap4",
+  "name": "meteor-bootstrap4-react-router4-template",
   "private": true,
   "scripts": {
     "preinstall": "curl https://install.meteor.com/ | sh",
@@ -20,7 +20,7 @@
     "bcrypt": "^3.0.6",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "meteor-node-stubs": "^0.4.1",
     "popper.js": "^1.15.0",
     "prop-types": "^15.7.2",
