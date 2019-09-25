@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "preinstall": "curl https://install.meteor.com/ | sh",
-    "postinstall": "meteor npm install --save bcrypt",
+    "postinstall": "$HOME/.meteor/meteor npm install --save bcrypt",
     "start": "$HOME/.meteor/meteor run",
     "test": "npm run test-server && npm run test-client",
     "test-server": "TEST_CLIENT=0 SERVER_TEST_REPORTER=\"list\" meteor test --once --driver-package meteortesting:mocha --port 3100",
