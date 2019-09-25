@@ -1,5 +1,5 @@
 {
-  "name": "meteor-bootstrap4-react-templ",
+  "name": "meteor-bootstrap4-react-template",
   "private": true,
   "scripts": {
     "preinstall": "curl https://install.meteor.com/ | sh",
